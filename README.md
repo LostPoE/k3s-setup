@@ -1,1 +1,1 @@
-# k3s setup for homelab private
+# k3s setup for homelab
